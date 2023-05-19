@@ -33,46 +33,62 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 ### PROCEDURE:
 
+# STEP 1:
+Open the roboanalyzer software.
 
+# STEP 2:
+Select the robot and its degrees of freedom.
 
+# STEP 3:
+Change the values with the link lenght wherever necessary.
 
+# STEP 4:
+Simulate the model for forward kinematics.
 
-### SIMULATION 
- 
- 
- 
- 
- 
- 
- 
- ### PLOT 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+# STEP 5:
+Plot the graph between the link and the joints.
 
- 
- 
+# STEP 6:
+Update the DH parameters of the link configuration and end effector configuration.
 
+## DH PARAMETERS
 
+## 6 DOF:
 
+![image](https://github.com/MIRUDHULA-DHANARAJ/Forward-kinematics-using-robot-analyzer/assets/94828147/adac6814-7a02-44be-a62c-394ad82967ad)
 
+## 4 DOF:
 
+![image](https://github.com/MIRUDHULA-DHANARAJ/Forward-kinematics-using-robot-analyzer/assets/94828147/5bb975a0-5f43-42d6-9803-475d5b02fd74)
 
+## SIMULATION: 
 
+## 6 DOF: 
 
+![image](https://github.com/MIRUDHULA-DHANARAJ/Forward-kinematics-using-robot-analyzer/assets/94828147/297ccfb7-6f97-4de5-8dc8-6f607b8ab72d)
 
+## 4 DOF:
 
+![image](https://github.com/MIRUDHULA-DHANARAJ/Forward-kinematics-using-robot-analyzer/assets/94828147/7712d451-a424-401a-8d2a-c4db2424fafa)
 
+## PLOT :
+## 6 DOF:
 
+![image](https://github.com/MIRUDHULA-DHANARAJ/Forward-kinematics-using-robot-analyzer/assets/94828147/ba9d2247-58d0-438f-b9f6-b4ddca3075b1)
 
+## 4 DOF:
+
+![image](https://github.com/MIRUDHULA-DHANARAJ/Forward-kinematics-using-robot-analyzer/assets/94828147/1b09ac05-0022-4d41-8b63-be0783018216)
+
+## EE CONFIGURATION:
+
+## 6 DOF: 
+
+![image](https://github.com/MIRUDHULA-DHANARAJ/Forward-kinematics-using-robot-analyzer/assets/94828147/dbb502cb-94e2-4078-8126-d48e539f7491)
+
+## 4 DOF: 
+
+![image](https://github.com/MIRUDHULA-DHANARAJ/Forward-kinematics-using-robot-analyzer/assets/94828147/3d414257-a5ea-4db8-a99d-eef6770b8e84)
 
 ### RESULTS :  
+The forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer has been analyzed and the graph for link cordinates and joint angles has been ploted.
